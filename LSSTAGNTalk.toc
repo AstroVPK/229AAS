@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction to AGN Variability}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{The Problem}{2}{0}{1}
+\beamer@sectionintoc {2}{Modelling AGN Variability as a C-ARMA Process}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Introduction}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Why C-ARMA?}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Inferencing C-ARMA}{7}{0}{2}
+\beamer@subsectionintoc {2}{4}{Interpreting C-ARMA}{8}{0}{2}
+\beamer@subsectionintoc {2}{5}{C-ARMA Analysis of Zw 229-15}{9}{0}{2}
+\beamer@sectionintoc {3}{Ongoing Projects}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Combing Surveys}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Toy Models of Massive Black Hole Binaries}{14}{0}{3}
+\beamer@sectionintoc {4}{The Road Goes Ever On And On...}{15}{0}{4}
+\beamer@subsectionintoc {4}{1}{Summary}{15}{0}{4}
