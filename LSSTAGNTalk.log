@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.6)  2 JAN 2017 23:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.6)  3 JAN 2017 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1410,7 +1410,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [6
 
  <./images/CARMA(5,1)_PSD.jpg> <./images/CARMA(5,1)_LC.jpg>]
-<images/CARMA(2,1)_Recovery.jpg, id=280, 3485.02pt x 2858.68pt>
+<images/CARMA(2,1)_Recovery.jpg, id=279, 3485.02pt x 2858.68pt>
 File: images/CARMA(2,1)_Recovery.jpg Graphic file (type jpg)
 
 <use images/CARMA(2,1)_Recovery.jpg>
@@ -1429,7 +1429,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [7
 
  <./images/CARMA(2,1)_Recovery.jpg>]
-<images/CARMA(2,1)_GF.jpg, id=312, 4167.57pt x 2693.06125pt>
+<images/CARMA(2,1)_GF.jpg, id=311, 4167.57pt x 2693.06125pt>
 File: images/CARMA(2,1)_GF.jpg Graphic file (type jpg)
 
 <use images/CARMA(2,1)_GF.jpg>
@@ -1447,7 +1447,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [8
 
  <./images/CARMA(2,1)_GF.jpg>]
-<images/Zw229-15_Crop.jpg, id=345, 5155.26pt x 3565.32pt>
+<images/Zw229-15_Crop.jpg, id=343, 5155.26pt x 3565.32pt>
 File: images/Zw229-15_Crop.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_Crop.jpg>
@@ -1461,7 +1461,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [9
 
  <./images/Zw229-15_Crop.jpg>]
-<images/Zw229-15_LC.jpg, id=381, 4751.7525pt x 2889.79625pt>
+<images/Zw229-15_LC.jpg, id=378, 4751.7525pt x 2889.79625pt>
 File: images/Zw229-15_LC.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_LC.jpg>
@@ -1475,7 +1475,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [10
 
  <./images/Zw229-15_LC.jpg>]
-<images/Zw229-15_GF.jpg, id=412, 4715.6175pt x 2854.665pt>
+<images/Zw229-15_GF.jpg, id=408, 4715.6175pt x 2854.665pt>
 File: images/Zw229-15_GF.jpg Graphic file (type jpg)
 
 <use images/Zw229-15_GF.jpg>
@@ -1489,7 +1489,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [11
 
  <./images/Zw229-15_GF.jpg>]
-<images/LC_2.jpg, id=442, 1003.75pt x 649.42625pt>
+<images/LC_2.jpg, id=438, 1003.75pt x 649.42625pt>
 File: images/LC_2.jpg Graphic file (type jpg)
  <use images/LC_2.jpg>
 Package pdftex.def Info: images/LC_2.jpg used on input line 1055.
@@ -1502,7 +1502,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [12
 
  <./images/LC_2.jpg>]
-<images/PowerOfSDSSK2.jpg, id=473, 4254.89626pt x 2898.83pt>
+<images/PowerOfSDSSK2.jpg, id=471, 4254.89626pt x 2898.83pt>
 File: images/PowerOfSDSSK2.jpg Graphic file (type jpg)
 
 <use images/PowerOfSDSSK2.jpg>
@@ -1516,7 +1516,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 [13
 
  <./images/PowerOfSDSSK2.jpg>]
-<images/PG1302-102_LC.jpg, id=508, 3983.88374pt x 2629.825pt>
+<images/PG1302-102_LC.jpg, id=503, 3983.88374pt x 2629.825pt>
 File: images/PG1302-102_LC.jpg Graphic file (type jpg)
 
 <use images/PG1302-102_LC.jpg>
@@ -1533,16 +1533,16 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 
  <./images/PG1302-102_LC.jpg>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 1202.
+(Font)              scaled to size 10.0pt on input line 1203.
 
-<images/Hogg_lc.jpg, id=539, 587.19376pt x 442.65375pt>
+<images/Hogg_lc.jpg, id=534, 587.19376pt x 442.65375pt>
 File: images/Hogg_lc.jpg Graphic file (type jpg)
 
 <use images/Hogg_lc.jpg>
-Package pdftex.def Info: images/Hogg_lc.jpg used on input line 1202.
+Package pdftex.def Info: images/Hogg_lc.jpg used on input line 1203.
 (pdftex.def)             Requested size: 146.79808pt x 110.66316pt.
 
-Overfull \hbox (9.88203pt too wide) in paragraph at lines 1202--1202
+Overfull \hbox (9.88203pt too wide) in paragraph at lines 1203--1203
  [] 
  []
 
@@ -1563,7 +1563,7 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1659.
+(hyperref)                removing `\translate ' on input line 1660.
 
 (./LSSTAGNTalk.bbl
 LaTeX Font Info:    Try loading font information for T1+qhv on input line 122.
@@ -1605,21 +1605,15 @@ Overfull \hbox (108.82281pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `LSSTAGNTalk.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2236.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2237.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2237.
  (./LSSTAGNTalk.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2236.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2237.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2237.
 
+Package rerunfilecheck Info: File `LSSTAGNTalk.out' has not changed.
+(rerunfilecheck)             Checksum: E1C23D4E5F1B37809E3602E11DC0F79B;915.
 
-
-Package rerunfilecheck Warning: File `LSSTAGNTalk.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `LSSTAGNTalk.out':
-(rerunfilecheck)             Before: B579F0DA67F13FFC66B7BAD5E6B6A50D;916
-(rerunfilecheck)             After:  E1C23D4E5F1B37809E3602E11DC0F79B;915.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1627,59 +1621,35 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2236.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2237.
  ) 
 Here is how much of TeX's memory you used:
- 21455 strings out of 493029
- 389511 string characters out of 6136235
- 461904 words of memory out of 5000000
- 24303 multiletter control sequences out of 15000+600000
+ 21446 strings out of 493029
+ 389394 string characters out of 6136235
+ 460898 words of memory out of 5000000
+ 24301 multiletter control sequences out of 15000+600000
  100405 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,18n,60p,970b,733s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation20} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.1.16} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.2.15} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.1.13} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.5.10} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.4.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.3.8} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
-adforn/OrnementsADF.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/nt
-x-ot1-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.e
-nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}</usr
-/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/sh
-are/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/pu
-blic/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/
-rntxmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/txfonts/txmia.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LSSTAGNTalk.pdf (19 pages, 14681060 bytes).
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvip
+s/adforn/OrnementsADF.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/
+ntx-ot1-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf
+.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}</u
+sr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
+share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/
+public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newt
+x/rntxmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/txfonts/txmia.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
+mr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on LSSTAGNTalk.pdf (19 pages, 14681064 bytes).
 PDF statistics:
- 772 PDF objects out of 1000 (max. 8388607)
- 706 compressed objects within 8 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 764 PDF objects out of 1000 (max. 8388607)
+ 699 compressed objects within 7 object streams
+ 56 named destinations out of 1000 (max. 500000)
  244 words of extra memory for PDF output out of 10000 (max. 10000000)
 
